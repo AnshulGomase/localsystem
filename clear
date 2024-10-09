@@ -1,0 +1,10 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 53806bd..6d5f07f 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1 +1,2 @@[m
+[31m-<p>Hii this is anshul</p>[m
+\ No newline at end of file[m
+[32m+[m[32m<p>Hii this is anshul</p>[m
+[32m+[m[32m<p>new feature add</p>[m
+\ No newline at end of file[m
